@@ -51,6 +51,6 @@ describe ('Test requesting http resource', () => {
 
 ## License
 
-This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
+This project is licensed under the MIT license. See the [LICENSE](LICENSE.md) file for more info.
 
 Copyright (c) 2017
